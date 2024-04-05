@@ -8,8 +8,7 @@
 
 ### Olá! Sou Aline Fonseca 👋
 #### - Pronomes: Ela/Dela - She/Her
-###### - 📚 Segurança da Informação - SENAC <b>3/5</b>
-###### - 💻 Aprendendo sobre Segurança Ofensiva
+###### - 📚 Segurança da Informação <b>3/5</b>
 ###### - 📝 Focando em estudar C#, Linux e Redes
 ###### - 📍 Cabo Frio - Rio de Janeiro, Brasil
 
